@@ -1,0 +1,43 @@
+POST https://www.allticket.com/api-book-detail/discount-normal HTTP/2.0
+content-length: 60
+sec-ch-ua-platform: "macOS"
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBsYXkyMTk0N0BnbWFpbC5jb20iLCJ1cmxiYWNrIjoid3d3LmFsbHRpY2tldC5jb20iLCJwYXltZW50Q2hhbm5lbCI6IkMwNyIsInRpY2tldFR5cGUiOiIwMSIsImxhbmciOiJFIiwiZGF0YSI6ImM0YTgyZTMyOTY5YmUxYzU3OWFjZDFmNTI4ZWUxODA5YzYzYWM4OTBhMGFlN2VjOGFmZDAyYmQ3OTJjNjFlYjg4YWYxOGRjYTI0NDdhOTEwMWZjZDYxZjJmZjQzZDJmOGQ0M2VkODI5NThmMDg0NWFiNmI2OGZjYTE0NWFkOWQyMzM4Y2YyMmJjZmUyYjJkYTM2N2U3ODAxMDEzZWFiM2NiYzYyYTE1MzE5MTFjYzYyOTAzZmY4YWMxYTM5ZTljNGM5Y2UxNzJhYjNiNDQ1MjY0NjEzZmRkOTg4ZTljZGJlN2Y0Yjk2ZjNjMTAxNGFjYWYxMDA5ZDQ0ZWIyYWIyMjBiYzU4OTVjYWY1OWQ2ZDY1OTBkNjU0YjExZTkxYTMwNTNhMjcxZjMyMjM4ODJiNmJkYTRmZjI2NWZkNzY1ZTViOTY3MDhmYTY3ZWI4NzVmOWM2YTJlM2UxZjc1YTU3ZjVlNDNjNWY4YjJkMTU1NDJmMmQ3Zjg3MWMyMTkyMjk1YzZhMTJkZjhjNjJmZTJiYTBkZjMyZDkxNDgxYzJjZjM4NDNmODQxMTg2YmM5ZTk5Yzk4YWQxN2NmNzM1MjUwNmIzMjEzZTM0ZGI3NTJhYWQ4OTdmMDhiNjMwMzM0NDlmNzRiNmJjZjI4YjhjOTJlYTA0OGY0MzM4NTZhOTVmY2ZmYWQ5NGY2MmQzNjI1NDQ2NzMxYWRiMmUyYjE2MTU0Y2M5YjY4MGM1YzU5MWZhZDg4MzlkYzFmOTNjNDM4NDUxZGExNGVjNzNiNzQyNzBmYjU2Y2Q2MDA5NjRlN2Y3NzU0MDY3YTRiMDE5OWUxMzIxNTRmMWNiYjdhMDQ3MjIxYTg3NmYzMDYwZDAzOTUyNTcwM2Q2ZThlNjg5YjExMzdjNGFiZmY0MmI0Nzc0ODdiOTRlODk3MGI1YjZmNjA5YjU5MjA1ZTQwNzNkNzc1ZDE4NDkwZGM2Y2Q4MmU5NjA3NWQ0ZDgzZTdlM2Q4YTk5MmVhODlmZjNmMjIyYWMxZTlhMCIsInRpbWVTdGFtcCI6MC42NDkyMzE3MDA1OTAzOTIsInNpbmdBZGRyZXNzIjoiNDkuMjI4LjI0MS4yNTMiLCJ0eXBlIjoiR09PR0xFIiwiaWF0IjoxNzc0MjQyNDcwLCJleHAiOjE3NzQyNTMyNzAsImlzcyI6ImNzYXRrMTgifQ.AjRYIeyv1S9H1K8qnV9dInjJhYZ_1C_VkfBoQmF996o
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+accept: application/json, text/plain, */*
+sec-ch-ua: "Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"
+content-type: application/json
+sec-ch-ua-mobile: ?0
+origin: https://www.allticket.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.allticket.com/event/RockonTheBeach2026
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en
+cookie: _ga=GA1.2.343711809.1774242358
+cookie: _gid=GA1.2.1045221530.1774242358
+cookie: G_ENABLED_IDPS=google
+cookie: _gat=1
+cookie: aws-waf-token=d55ed907-d79b-49f7-adba-af81ce780a23:NQoAj40onqlZAAAA:aFI11aYT59IXGGE6hC4GCz1T91fnpJoB4pPg/i501SCSI58tjR8pVTbeSUzoz0YaeQDE8VUJVRZItlYOBDuJnmiM4s2aKcRSGDoCFPFY1d5bNDDAOMGMh35QWM1jK67JCd2azCs4/vpPIuqfGPadjCKMsAqkPkV6Bh4VCMPJVZVVdru5DctZDbPTlkAr6RfJMpl4r36tB3UM+MZnljLJPwrE4aWFX6p/OhDoZ+vaEXyNRQHiFJRuUyWb
+cookie: _ga_ERZFFGWN5D=GS2.2.s1774242504$o1$g1$t1774245550$j42$l0$h1022027588
+priority: u=1, i
+
+{"reserveId":"M/Aw7Vmea39e3dL05lmHDw4uY6iy9ZT7GMFlE37PtpA="}
+
+HTTP/2.0 200 
+content-type: application/json
+date: Mon, 23 Mar 2026 05:59:22 GMT
+x-amz-apigw-id: aqZ9OHDqSQ0EeZQ=
+x-amzn-trace-id: Root=1-69c0d6ba-59b09e554d178f4c07acfcfc;Sampled=1;Lineage=2:fb1b86af:0
+x-amzn-requestid: 047c8bb2-5d5c-47cb-b866-c674ae6a8a7e
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 5a537d8b5bea93112f0bc0db0121c530.cloudfront.net (CloudFront)
+x-amz-cf-pop: BKK51-P1
+x-amz-cf-id: f-v7lGt3Lf1zLiF62MhVyaC3xn05mcZsTmeFMrZsw2lsBNSsfl0n-A==
+content-security-policy: default-src * 'self' data: https: http: ; img-src * 'self' data: https: http:; font-src * 'self' data: https: http:; style-src 'self' 'unsafe-inline' https: http:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https: http:;
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains
+content-length: 2465
+
+{"success":true,"code":"100","message":"success","data":{"reserve_detail":{"resultReserve":{"seatTO":[{"seatNo":"Festival","seatId":"NONSEAT","priceAmt":2100,"rowNo":""}],"customerTO":{"idNo":"1509966373202","name":"Rattanon","surName":"Boonmata","nameEn":"Rattanon","surNameEn":"Boonmata","birthDay":"Sep 1, 2004 7:00:00 AM","gender":"1","telephone":"0956975152"},"description":"-","performFullName":"Rock on The Beach 2026","performShortName":"Rock on The Beach 2026","roundId":"R1","roundDate":"25/04/2026","roundTime":"16:30:00","zoneId":"PRE","noOfSeat":"1","hallName":"หาดแหลมเจริญ จ.ระยอง","performShowDate":"25 APRIL 2026","performShowTime":"Door Open : 01:00 P.M.","showExpireTimeTh":"0.3333333333333333 ชั่วโมง 20 นาที","showExpireTimeEn":"0.3333333333333333 Hour 20 Minute","creditFeeLabel":0,"amountWithcreditFeeLabel":"2,130.00","amountWithcreditFeeIntstr":2130,"discount":0,"feelabel":"Service Fee 30 Baht per ticket","notPaycredit":false,"notPayoutlet":true,"csFee":0,"issueFee":30,"transFee":0,"creditFee":0,"billAmt":2100,"priceAmt":2100,"totalAmt":2130,"zoneType":"NONSEAT","zoneName":"PRE-SALE","zoneLabel":"PRE-SALE","showdateRoundLabel":"Show Date : 25 April 2026 16:30","roundDateTimeLabel":"Show Date : 25 April 2026 16:30","performSubType":"","canDelivery":true,"shippingCost":60,"disallowReceive":true,"extraPaymentMethods":{"paymentCountdown":10,"paymetToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZENhcmQiOiIxNTA5OTY2MzczMjAyIiwicmVzZXJ2ZSI6Ik0vQXc3Vm1lYTM5ZTNkTDA1bG1IRHc0dVk2aXk5WlQ3R01GbEUzN1B0cEE9Iiwiem9uZVR5cGUiOiJOT05TRUFUIiwiY2FuY2VsSWQiOiJNL0F3N1ZtZWEzOWUzZEwwNWxtSEQ3MnB6SmgzNWdYd2p5Z3lxZDF6VUJBMEZtSTFVeXhRYU1ja3VOeUtvSmFRWjNxMVM3bU9XSU5HNTVGcThxMUNHdz09IiwiaWF0IjoxNzc0MjQ1NTYyLCJuYmYiOjE3NzQyNDU1NzIsImV4cCI6MTc3NDI0NjQ2MiwiaXNzIjoicGxheTIxOTQ3QGdtYWlsLmNvbSIsInN1YiI6IlBBWU1FTlRfRVhQSVJFRCJ9.6D5CpVvFI4QS58r_HZmgYyi2hOcWHpPunpkmkW6xZKs","paymentOptions":[{"method":"TMW","methodName":"ทรูมันนี่ วอลเล็ท","methodNameEn":"TrueMoney Wallet","fee":0,"feeLabel":"0.00","amountWithFee":2130,"amountWithFeeLabel":"2,130.00"},{"method":"TQR","methodName":"พร้อมเพย์","methodNameEn":"Thai QR Payment","fee":0,"feeLabel":"0.00","amountWithFee":2130,"amountWithFeeLabel":"2,130.00"}]},"discountCredit":[]},"email":"play21947@gmail.com","reserveId":"M/Aw7Vmea39e3dL05lmHDw4uY6iy9ZT7GMFlE37PtpA=","code":100,"success":true}}}

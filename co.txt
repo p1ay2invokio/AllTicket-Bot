@@ -1,0 +1,77 @@
+POST https://cspage.counterservicepay.co/ HTTP/2.0
+content-length: 2140
+cache-control: max-age=0
+sec-ch-ua: "Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+origin: https://www.allticket.com
+content-type: application/x-www-form-urlencoded
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-dest: document
+referer: https://www.allticket.com/
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en
+priority: u=0, i
+
+paymentData=eyJlbmNyeXB0ZWRTZXNzaW9uS2V5IjoiY2VHVlAvbnNkdysvUWZhRzNCUlZsbW5NVU5xRDBoNmFUckRwWWY0Q3cvRXdXbzBKYTZjT3lHNUhITlRkWitsQ3FkUEc5M29ETGNTUnUvZkNEOE1uclVIemEvL2hQTVNjTEFhdXFPM25CWlpxQWM3L3pzQ2RYWVg5ejA5WGp3TVZWN0sxTzE1VkhmSURsY3B0b1F6Y2xXOVQvUWg0dnZBbEE4WjVJNjhHYkNTa0IvNHlvcTBsQW5rZWY1RGhxNkNHZzduSUIwZWZOb1g5RGw1Vm90RVY5eCt4TkNwcnNTS2w1REdOdENXa2ZyVUpJSGlubGJUc050dWNvYzJwejMrSHEycGxuR0hKZC9mdTBIUTBNeHd2bkFTdGs5d2Y2b0pRTngwTzNIUlR3Rm8xRWptQ2REK3Z6SjZzbG9USmxMSXN1ZjhXNTZ2Nko2d0psaHhxbkxCU0VBPT0iLCJlbmNyeXB0ZWRQYXltZW50RGF0YSI6IlUyRnNkR1ZrWDErenBWcVlwNkhyemloQzBsRDVUY3Y5ZU40MlhrK0JkcE5pYmwyeVE3b0dRWC82c1FuSGxKRGhuVGp6WFJQQkY5cS9mQklRa1lJSDE2VjhRN0h1cTFpVUhBdTFxQzlocU5Xa0F3U2lma1h5TXEyTkh6QnpyLzdwaWxtSnBIWVJEU0N1c0ErQmJKdStUK2hWdXZ3Y0QzaVBQVmZ3MytDTXlYRW54eHNqMXAwMmJFKyt2dkd2RDViUGo2VjJENzlwM0lqeURnaWdsQXJ1VHEvSWZkTHdqa0NkV3poaHNGdEVFYnU1VTNidXM1WlBFR3dENWhlV1Bhc0Y4a2hmL29LUkkwRVNjaUxVdFJOVXB4VFkzK2o1TmVOSTNrT1RaWXJtdEhIK1RCbzAycWZMSnJ1ckJWOTZ5aFllWm5RQy9EYU44VnF3UkwzY0pscFo5ci9Pa0FaaEozbEVkbkUzN3YxQWRTMkNuWGlEWlFLcUpYdzh6OFZVM1IxMnMvdy9rUlNvTFgwSWhtbk41bTQ2ZkxvdGg2NEYwNDVtdTZWbzhjMXROTmk2N2FRS085NHVOK3JWWFJoTWR1YWJocCs4blJPd2dtOHh4TmoyNFFydDlIMTN3VVltb2p6S21IaVZ6L3hHdjhRZS8vYmJTMWhkNGJtUEtwaktxSmpHOWNGWExJQWJiWVJqQmh6R1h4bkZsL0FDQ3BBN0R5MlBRam9XbGpyWVJBcE1DS2ZTcHg4T05SRUVrTkNCQjBtUnFvZDg5MVNuVVdudkRZSEFrRlVVOXFqbTM2eHNkcnpjbysyRmhtUFpjWER4bGlEdEVydEp2RVQzbmdsRFpxMnFjcTZ0OFAzc01HMHF6aHZ4dTZNVHlvdldRZXZtQ2JZVW1UQ0xEcjVQQlI0N2dVV05FWUFIcjBTb0tXYWlnZHFzWitzTFNsNXVhdzlDNU95MFlWZnBoV1JwSlhNNEZxYkMrbEd2N3ZybkVPUU96UTZ3RzZJMC9oT0Z6L1RwV0VUbUlPb2x3TWhldmd2cVZTY3lJQUx6OTYwTG0vQjhEV2xTaDkyUmxvZ0NWQThzbStzUEREblFsaGRrNG9XMmlCMFFEWHBwa2lHcFpORDZEeE9FcXhoZE54bTIyMlhBV1kxaHg2SDBlQ0VlbDliQndDWTNyUDZMUmpseXBNRTZ1bUdJUWNwcFJSTlZBTnkrMUNaejQvQ0V3V0pLZkdLeWNZMmpFMlh4eWxiek42M2I3eWd0TTFLMExDTVZFaU5rR3Jla25ULzdGeVkxVHVncTN6RTNXbjQ1andCazk0UXp1NFFKRHFqa3B3UDhvNmF0Q2o1MVNLZ2NnRGdyVXhWMlExeU9STFNTRWRZUnBuV2RzTWRTQWs3MmswVFlVbEgwZW5VYjJZY0pIRUR1N29mUS91NEYrTnJ4WnVEMEVOeTJVMHJEMm5UMU9yaS9VQmJEOVZZVU1ZaHZHU3F1ZnczZDRGZGVIUmE5VW9oaGVNZXBEYXdEWng0eGhIbGVLdUJud1JHdENEd3l5RG4zbjk0Q2Fydjg2WndVQXVoOGR1OTlKQ3FkanIzYjRnOXZSTm55Zmc9PSJ9
+
+HTTP/2.0 200 
+date: Mon, 23 Mar 2026 05:59:43 GMT
+content-type: text/html; charset=UTF-8
+content-length: 4313
+server: Apache/2.4.62 () PHP/7.4.33
+x-powered-by: PHP/7.4.33
+access-control-allow-origin: *
+access-control-expose-headers: *
+apigw-requestid: aqaAZhq6yQ0EPHw=
+
+<html lang="en" dir="ltr">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ <style>
+ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+ </style>
+<title>COUNTER SERVICE PAYMENT GATEWAY</title>
+</head>
+     <style>
+      body {
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        position: relative;
+        background: url('images/img_bg.png') no-repeat center center;
+        background-size: cover;
+      }
+      .gateway-logo {
+        position: absolute;
+        right: 20px;
+        bottom: 20px;
+        display: block;
+        width: 200px;
+        height: 46px;
+        background: url('images/img_logo@2x.png') no-repeat center center;
+        background-size: 100% 100%;
+      }
+    </style>
+<body onload= "loadpage();">
+    <div class="contain">
+      <table style="width: 100%; height: 100%;">
+        <tr>
+          <td style="vertical-align: middle; text-align: center;">
+              &nbsp;
+          </td>
+        </tr>
+      </table>
+      <div class="gateway-logo"></div>
+    </div>
+</body>
+ <script src="https://secure.counterservicepay.com/cspay.js"></script>
+ <script>
+     function loadpage(){
+                     CSPay.configure({ paymentData: 'eyJlbmNyeXB0ZWRTZXNzaW9uS2V5IjoiY2VHVlAvbnNkdysvUWZhRzNCUlZsbW5NVU5xRDBoNmFUckRwWWY0Q3cvRXdXbzBKYTZjT3lHNUhITlRkWitsQ3FkUEc5M29ETGNTUnUvZkNEOE1uclVIemEvL2hQTVNjTEFhdXFPM25CWlpxQWM3L3pzQ2RYWVg5ejA5WGp3TVZWN0sxTzE1VkhmSURsY3B0b1F6Y2xXOVQvUWg0dnZBbEE4WjVJNjhHYkNTa0IvNHlvcTBsQW5rZWY1RGhxNkNHZzduSUIwZWZOb1g5RGw1Vm90RVY5eCt4TkNwcnNTS2w1REdOdENXa2ZyVUpJSGlubGJUc050dWNvYzJwejMrSHEycGxuR0hKZC9mdTBIUTBNeHd2bkFTdGs5d2Y2b0pRTngwTzNIUlR3Rm8xRWptQ2REK3Z6SjZzbG9USmxMSXN1ZjhXNTZ2Nko2d0psaHhxbkxCU0VBPT0iLCJlbmNyeXB0ZWRQYXltZW50RGF0YSI6IlUyRnNkR1ZrWDErenBWcVlwNkhyemloQzBsRDVUY3Y5ZU40MlhrK0JkcE5pYmwyeVE3b0dRWC82c1FuSGxKRGhuVGp6WFJQQkY5cS9mQklRa1lJSDE2VjhRN0h1cTFpVUhBdTFxQzlocU5Xa0F3U2lma1h5TXEyTkh6QnpyLzdwaWxtSnBIWVJEU0N1c0ErQmJKdStUK2hWdXZ3Y0QzaVBQVmZ3MytDTXlYRW54eHNqMXAwMmJFKyt2dkd2RDViUGo2VjJENzlwM0lqeURnaWdsQXJ1VHEvSWZkTHdqa0NkV3poaHNGdEVFYnU1VTNidXM1WlBFR3dENWhlV1Bhc0Y4a2hmL29LUkkwRVNjaUxVdFJOVXB4VFkzK2o1TmVOSTNrT1RaWXJtdEhIK1RCbzAycWZMSnJ1ckJWOTZ5aFllWm5RQy9EYU44VnF3UkwzY0pscFo5ci9Pa0FaaEozbEVkbkUzN3YxQWRTMkNuWGlEWlFLcUpYdzh6OFZVM1IxMnMvdy9rUlNvTFgwSWhtbk41bTQ2ZkxvdGg2NEYwNDVtdTZWbzhjMXROTmk2N2FRS085NHVOK3JWWFJoTWR1YWJocCs4blJPd2dtOHh4TmoyNFFydDlIMTN3VVltb2p6S21IaVZ6L3hHdjhRZS8vYmJTMWhkNGJtUEtwaktxSmpHOWNGWExJQWJiWVJqQmh6R1h4bkZsL0FDQ3BBN0R5MlBRam9XbGpyWVJBcE1DS2ZTcHg4T05SRUVrTkNCQjBtUnFvZDg5MVNuVVdudkRZSEFrRlVVOXFqbTM2eHNkcnpjbysyRmhtUFpjWER4bGlEdEVydEp2RVQzbmdsRFpxMnFjcTZ0OFAzc01HMHF6aHZ4dTZNVHlvdldRZXZtQ2JZVW1UQ0xEcjVQQlI0N2dVV05FWUFIcjBTb0tXYWlnZHFzWitzTFNsNXVhdzlDNU95MFlWZnBoV1JwSlhNNEZxYkMrbEd2N3ZybkVPUU96UTZ3RzZJMC9oT0Z6L1RwV0VUbUlPb2x3TWhldmd2cVZTY3lJQUx6OTYwTG0vQjhEV2xTaDkyUmxvZ0NWQThzbStzUEREblFsaGRrNG9XMmlCMFFEWHBwa2lHcFpORDZEeE9FcXhoZE54bTIyMlhBV1kxaHg2SDBlQ0VlbDliQndDWTNyUDZMUmpseXBNRTZ1bUdJUWNwcFJSTlZBTnkrMUNaejQvQ0V3V0pLZkdLeWNZMmpFMlh4eWxiek42M2I3eWd0TTFLMExDTVZFaU5rR3Jla25ULzdGeVkxVHVncTN6RTNXbjQ1andCazk0UXp1NFFKRHFqa3B3UDhvNmF0Q2o1MVNLZ2NnRGdyVXhWMlExeU9STFNTRWRZUnBuV2RzTWRTQWs3MmswVFlVbEgwZW5VYjJZY0pIRUR1N29mUS91NEYrTnJ4WnVEMEVOeTJVMHJEMm5UMU9yaS9VQmJEOVZZVU1ZaHZHU3F1ZnczZDRGZGVIUmE5VW9oaGVNZXBEYXdEWng0eGhIbGVLdUJud1JHdENEd3l5RG4zbjk0Q2Fydjg2WndVQXVoOGR1OTlKQ3FkanIzYjRnOXZSTm55Zmc9PSJ9'});
+              }
+ </script>
+</html>

@@ -1,0 +1,42 @@
+POST https://www.allticket.com/api-booking/get-round HTTP/2.0
+content-length: 21
+sec-ch-ua-platform: "macOS"
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBsYXkyMTk0N0BnbWFpbC5jb20iLCJ1cmxiYWNrIjoid3d3LmFsbHRpY2tldC5jb20iLCJwYXltZW50Q2hhbm5lbCI6IkMwNyIsInRpY2tldFR5cGUiOiIwMSIsImxhbmciOiJFIiwiZGF0YSI6ImM0YTgyZTMyOTY5YmUxYzU3OWFjZDFmNTI4ZWUxODA5YzYzYWM4OTBhMGFlN2VjOGFmZDAyYmQ3OTJjNjFlYjg4YWYxOGRjYTI0NDdhOTEwMWZjZDYxZjJmZjQzZDJmOGQ0M2VkODI5NThmMDg0NWFiNmI2OGZjYTE0NWFkOWQyMzM4Y2YyMmJjZmUyYjJkYTM2N2U3ODAxMDEzZWFiM2NiYzYyYTE1MzE5MTFjYzYyOTAzZmY4YWMxYTM5ZTljNGM5Y2UxNzJhYjNiNDQ1MjY0NjEzZmRkOTg4ZTljZGJlN2Y0Yjk2ZjNjMTAxNGFjYWYxMDA5ZDQ0ZWIyYWIyMjBiYzU4OTVjYWY1OWQ2ZDY1OTBkNjU0YjExZTkxYTMwNTNhMjcxZjMyMjM4ODJiNmJkYTRmZjI2NWZkNzY1ZTViOTY3MDhmYTY3ZWI4NzVmOWM2YTJlM2UxZjc1YTU3ZjVlNDNjNWY4YjJkMTU1NDJmMmQ3Zjg3MWMyMTkyMjk1YzZhMTJkZjhjNjJmZTJiYTBkZjMyZDkxNDgxYzJjZjM4NDNmODQxMTg2YmM5ZTk5Yzk4YWQxN2NmNzM1MjUwNmIzMjEzZTM0ZGI3NTJhYWQ4OTdmMDhiNjMwMzM0NDlmNzRiNmJjZjI4YjhjOTJlYTA0OGY0MzM4NTZhOTVmY2ZmYWQ5NGY2MmQzNjI1NDQ2NzMxYWRiMmUyYjE2MTU0Y2M5YjY4MGM1YzU5MWZhZDg4MzlkYzFmOTNjNDM4NDUxZGExNGVjNzNiNzQyNzBmYjU2Y2Q2MDA5NjRlN2Y3NzU0MDY3YTRiMDE5OWUxMzIxNTRmMWNiYjdhMDQ3MjIxYTg3NmYzMDYwZDAzOTUyNTcwM2Q2ZThlNjg5YjExMzdjNGFiZmY0MmI0Nzc0ODdiOTRlODk3MGI1YjZmNjA5YjU5MjA1ZTQwNzNkNzc1ZDE4NDkwZGM2Y2Q4MmU5NjA3NWQ0ZDgzZTdlM2Q4YTk5MmVhODlmZjNmMjIyYWMxZTlhMCIsInRpbWVTdGFtcCI6MC42NDkyMzE3MDA1OTAzOTIsInNpbmdBZGRyZXNzIjoiNDkuMjI4LjI0MS4yNTMiLCJ0eXBlIjoiR09PR0xFIiwiaWF0IjoxNzc0MjQyNDcwLCJleHAiOjE3NzQyNTMyNzAsImlzcyI6ImNzYXRrMTgifQ.AjRYIeyv1S9H1K8qnV9dInjJhYZ_1C_VkfBoQmF996o
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+accept: application/json, text/plain, */*
+sec-ch-ua: "Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"
+content-type: application/json
+sec-ch-ua-mobile: ?0
+origin: https://www.allticket.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.allticket.com/event/RockonTheBeach2026
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en
+cookie: _ga=GA1.2.343711809.1774242358
+cookie: _gid=GA1.2.1045221530.1774242358
+cookie: G_ENABLED_IDPS=google
+cookie: _ga_ERZFFGWN5D=GS2.2.s1774242504$o1$g1$t1774244701$j56$l0$h1022027588
+cookie: aws-waf-token=d55ed907-d79b-49f7-adba-af81ce780a23:NQoAoeQonAJZAAAA:Q1GSu8ChFrRtBVEYMRihbnwnxZRUiw7DU1T5cfinYCNWGl1rEPJIUmUNyV7Zvf6fWXqkvcAE+KpZq03/+HdwtJXazCUJCfIOiTPuBDIsiN2XkuAa3bfm8AJRGfiYPAka99s+wgUW7qd7aGNMsoQ8+8kMAUXB3RAPJJ0UsA4fjSU7RLzZInFedu3/0limzBdUw47T+bkLbazfr01gM30xvsj4cH00iUhOcKant0mRP0hnUv53ZFrgg2mU
+priority: u=1, i
+
+{"performId":"26027"}
+
+HTTP/2.0 200 
+content-type: application/json
+content-length: 857
+date: Mon, 23 Mar 2026 05:58:51 GMT
+x-amzn-trace-id: Root=1-69c0d69b-5e9decf84e3e56187a97feea;Sampled=1;Lineage=2:0ffbd632:0
+x-amzn-requestid: 417b4383-59e0-427c-bab3-16eae285d087
+x-amz-apigw-id: aqZ4YFCUSQ0EF5A=
+x-cache: Miss from cloudfront
+via: 1.1 5a537d8b5bea93112f0bc0db0121c530.cloudfront.net (CloudFront)
+x-amz-cf-pop: BKK51-P1
+x-amz-cf-id: dJENZfM_zr53wRkm5EffgKB-FowusJ_LLbhuOkDmn8NDtu5jFsFPVg==
+content-security-policy: default-src * 'self' data: https: http: ; img-src * 'self' data: https: http:; font-src * 'self' data: https: http:; style-src 'self' 'unsafe-inline' https: http:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https: http:;
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains
+
+{"success":true,"code":"100","message":"success","data":{"event_info":{"id":"26027","name":"Rock on The Beach 2026","fullname":"Rock on The Beach 2026","maxReserve":2,"maxSelectSeat":2,"maxSelectSeatPerUser":2,"zoneLayout":"<p>\r\n\t<img src=\"https://atkmedia.allticket.com/images/zoneInternet/ROTB_18032026_PlanZone_Web_PRE.jpg\" style=\"border-width: 0px;  \r\n border-style: solid; width: 625px; height: 419px;\" usemap=\"#Map26027\" /><map name=\"Map26027\"><area class=\"p_PRE\" coords=\"0,0,625,419\" data-zone=\"PRE\" href=\"#\" shape=\"rect\" /></map></p>\r\n","showSeatAva":false,"list_round":[{"roundLabel":"Show Date : 25 April 2026 16:30","showdateRoundLabel":"Show Date : 25 April 2026 16:30","roundDateTimeLabel":"Show Date : 25 April 2026 16:30","roundId":"R1","maxSelectSeat":2,"roundDate":1777109400000}],"duration_date":[1777109400000]}}}
+
