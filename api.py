@@ -50,7 +50,7 @@ def getRound(performId):
     
     # print("CJ : ", cj)
     
-    print("BEFORE GET : ", jwt_token)
+    # print("BEFORE GET : ", jwt_token)
 
     cookies = {
         '_ga': 'GA1.2.343711809.1774242358',
@@ -85,6 +85,7 @@ def getRound(performId):
     response = requests.post('https://www.allticket.com/api-booking/get-round', cookies=cj, headers=headers, json=json_data, verify=False)
     
     print("TEST : ", response)
+    print("TEST : ", response.text)
     
     return response.json()
     
